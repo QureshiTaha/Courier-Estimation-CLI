@@ -37,6 +37,12 @@ Run tests with:
 pytest -q
 ```
 
+**Windows note:** If you’re not using the included `pytest.ini`, you may need:
+```bash
+set PYTHONPATH=%CD%
+pytest -q
+```
+
 ## Design notes (short)
 - SOLID: small classes (`Package`, `Offer`, `Vehicle`) and single-responsibility modules.
 - TDD: tests provided that cover pricing, offers, and scheduling behaviors.
