@@ -1,7 +1,7 @@
-# Courier Service Coding Challenge - Solution (Python)
+# Courier Service Estimation Calculator (Python)
 
 ## Overview
-This repository contains a complete Python solution for the courier service coding challenge.
+This repository contains a complete Python solution for the courier service.
 It includes:
 - Delivery cost calculation with offer codes.
 - Scheduler that assigns packages to vehicles and computes estimated delivery times.
