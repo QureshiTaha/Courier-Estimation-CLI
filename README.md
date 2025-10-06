@@ -1,5 +1,8 @@
 # 📦 Courier Service Estimation CLI (Python)
 
+[![codecov](https://codecov.io/gh/QureshiTaha/Courier-Estimation-CLI/branch/main/graph/badge.svg)](https://codecov.io/gh/QureshiTaha/Courier-Estimation-CLI)
+
+
 ## 🧠 Overview
 This project implements a complete Python solution for the **Courier Service estimation challenge**.  
 It calculates delivery costs with discounts and estimates delivery times based on vehicle availability and constraints.
