@@ -7,3 +7,6 @@ def test_offers_applicability():
 
 def test_unknown_offer():
     assert calculate_discount_for('UNKNOWN', 500, 100, 100) == 0.0
+
+def test_none_offer_returns_zero():
+    assert calculate_discount_for(None, 700.0, 10, 100) == 0.0
